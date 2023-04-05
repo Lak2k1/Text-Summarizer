@@ -6,4 +6,6 @@
 
 # Text Summarizer using Pegasus-CNN_DailyMail
 
+
+
 ![](https://github.com/Lak2k1/Text-Summarizer/blob/main/text-summary.gif)
