@@ -28,4 +28,6 @@ This project is a text summarizer that utilizes the Pegasus-CNN_DailyMail model 
 ## Conclusion
 - Overall, this project demonstrates the effectiveness of transformer-based models for text summarization tasks. By fine-tuning the Pegasus-CNN_DailyMail model on the Samsum dataset, this text summarizer can produce high-quality summaries of input texts. While the training process may require specialized hardware or cloud-based services, the end result is a powerful tool for automatically summarizing large amounts of text.
 
+
+## GIF of how well the model summarizes-
 ![](https://github.com/Lak2k1/Text-Summarizer/blob/main/text-summary.gif)
